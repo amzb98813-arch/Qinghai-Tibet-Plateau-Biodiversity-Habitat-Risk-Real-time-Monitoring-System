@@ -11,6 +11,8 @@ Due to the large file size (~2.6GB), the compiled executable is hosted on Baidu 
 **Download Link**: https://pan.baidu.com/s/1wJNDkJdrIL5fvvc3vpr2Xw  
 **Extraction Code**: tkst
 
+<img width="956" height="626" alt="image" src="https://github.com/user-attachments/assets/5f9f0bed-e1f0-4a0f-aff8-29afef529535" />
+
 ## System Requirements
 
 - Windows 10/11 (64-bit)
